@@ -1,5 +1,22 @@
 # Premission
 
+[![](https://jitpack.io/v/waws80/Premission.svg)](https://jitpack.io/#waws80/Premission)
+
+### gradle
+```java
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+```
+```java
+dependencies {
+	        compile 'com.github.waws80:Premission:V0.1'
+	}
+```
+
 ### 使用：
 
 ```java
